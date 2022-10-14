@@ -281,8 +281,8 @@ var __vue_staticRenderFns__ = [];
 
 var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
   if (!inject) return;
-  inject("data-v-65ec5906_0", {
-    source: ".small-flag[data-v-65ec5906]{margin:-.9em -1.2em -.9em -1.2em;transform:scale(.25);-ms-transform:scale(.25);-webkit-transform:scale(.25);-moz-transform:scale(.25)}.normal-flag[data-v-65ec5906]{margin:0 -.9em -.6em -.7em;transform:scale(.5);-ms-transform:scale(.5);-webkit-transform:scale(.5);-moz-transform:scale(.5)}.big-flag[data-v-65ec5906]{margin:0}.small-flag.rounded[data-v-65ec5906]{-moz-border-radius:15px;border-radius:15px}.normal-flag.rounded[data-v-65ec5906]{-moz-border-radius:10px;border-radius:10px}.big-flag.rounded[data-v-65ec5906]{-moz-border-radius:8px;border-radius:8px}.small-flag.shadow[data-v-65ec5906]{-webkit-box-shadow:0 2px 4px -1px rgb(0 0 0 / 20%),0 4px 5px 0 rgb(0 0 0 / 14%),0 1px 10px 0 rgb(0 0 0 / 12%);-moz-box-shadow:0 2px 4px -1px rgb(0 0 0 / 20%),0 4px 5px 0 rgb(0 0 0 / 14%),0 1px 10px 0 rgb(0 0 0 / 12%);box-shadow:0 2px 4px -1px rgb(0 0 0 / 20%),0 4px 5px 0 rgb(0 0 0 / 14%),0 1px 10px 0 rgb(0 0 0 / 12%)}.normal-flag.shadow[data-v-65ec5906]{-webkit-box-shadow:0 2px 4px -1px rgb(0 0 0 / 20%),0 4px 5px 0 rgb(0 0 0 / 14%),0 1px 10px 0 rgb(0 0 0 / 12%);-moz-box-shadow:0 2px 4px -1px rgb(0 0 0 / 20%),0 4px 5px 0 rgb(0 0 0 / 14%),0 1px 10px 0 rgb(0 0 0 / 12%);box-shadow:0 2px 4px -1px rgb(0 0 0 / 20%),0 4px 5px 0 rgb(0 0 0 / 14%),0 1px 10px 0 rgb(0 0 0 / 12%)}.big-flag.shadow[data-v-65ec5906]{-webkit-box-shadow:0 2px 4px -1px rgb(0 0 0 / 20%),0 4px 5px 0 rgb(0 0 0 / 14%),0 1px 10px 0 rgb(0 0 0 / 12%);-moz-box-shadow:0 2px 4px -1px rgb(0 0 0 / 20%),0 4px 5px 0 rgb(0 0 0 / 14%),0 1px 10px 0 rgb(0 0 0 / 12%);box-shadow:0 2px 4px -1px rgb(0 0 0 / 20%),0 4px 5px 0 rgb(0 0 0 / 14%),0 1px 10px 0 rgb(0 0 0 / 12%)}",
+  inject("data-v-7dd06752_0", {
+    source: ".small-flag[data-v-7dd06752]{transform:scale(.25);-ms-transform:scale(.25);-webkit-transform:scale(.25);-moz-transform:scale(.25)}.normal-flag[data-v-7dd06752]{transform:scale(.5);-ms-transform:scale(.5);-webkit-transform:scale(.5);-moz-transform:scale(.5)}.big-flag[data-v-7dd06752]{margin:0}",
     map: undefined,
     media: undefined
   });
@@ -290,10 +290,10 @@ var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
 /* scoped */
 
 
-var __vue_scope_id__ = "data-v-65ec5906";
+var __vue_scope_id__ = "data-v-7dd06752";
 /* module identifier */
 
-var __vue_module_identifier__ = "data-v-65ec5906";
+var __vue_module_identifier__ = "data-v-7dd06752";
 /* functional template */
 
 var __vue_is_functional_template__ = false;

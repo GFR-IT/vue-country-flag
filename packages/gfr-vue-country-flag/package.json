@@ -1,6 +1,6 @@
 {
   "name": "gfr-vue-country-flag",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple Vue component for displaying of country flags",
   "main": "dist/country-flag.ssr.js",
   "module": "dist/country-flag.esm.js",

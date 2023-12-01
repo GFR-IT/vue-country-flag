@@ -24,5 +24,8 @@ export default Vue.extend({
     <CountryFlag country='fr' size='big'/>
     <CountryFlag country='it' size='big'/>
     <CountryFlag country='is' size='big'/>
+    <CountryFlag country='lv' size='big'/>
+    <CountryFlag country='ee' size='big'/>
+    <CountryFlag country='lt' size='big'/>
   </div>
 </template>
